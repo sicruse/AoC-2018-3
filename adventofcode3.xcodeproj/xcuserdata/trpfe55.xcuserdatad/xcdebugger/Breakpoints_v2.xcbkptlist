@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "adventofcode3/main.swift"
+            timestampString = "565664713.963411"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "1412"
+            endingLineNumber = "1412"
+            landmarkName = "findIntactRectangle(input:)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "adventofcode3/main.swift"
+            timestampString = "565664713.963477"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "1414"
+            endingLineNumber = "1414"
+            landmarkName = "findIntactRectangle(input:)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "adventofcode3/main.swift"
+            timestampString = "565664713.963522"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "1432"
+            endingLineNumber = "1432"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "adventofcode3.findIntactRectangle(input: Swift.Array&lt;(id: Swift.Int, x: Swift.Int, y: Swift.Int, width: Swift.Int, height: Swift.Int)&gt;) -&gt; Swift.Int"
+                  moduleName = "adventofcode3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/trpfe55/Development/research/Advent%20of%20Code%202018/adventofcode3/adventofcode3/main.swift"
+                  timestampString = "565554797.969242"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "1419"
+                  endingLineNumber = "1419"
+                  offsetFromSymbolStart = "1388">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 ((key: Swift.String, value: Swift.Array&lt;Swift.Int&gt;)) -&gt; Swift.Bool in adventofcode3.findIntactRectangle(input: Swift.Array&lt;(id: Swift.Int, x: Swift.Int, y: Swift.Int, width: Swift.Int, height: Swift.Int)&gt;) -&gt; Swift.Int"
+                  moduleName = "adventofcode3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/trpfe55/Development/research/Advent%20of%20Code%202018/adventofcode3/adventofcode3/main.swift"
+                  timestampString = "565554797.971687"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "1419"
+                  endingLineNumber = "1419"
+                  offsetFromSymbolStart = "20">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
